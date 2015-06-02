@@ -1,0 +1,26 @@
+{
+    "udem-ete-image-montreal.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "Pierre", 
+            "name": "udem-ete-image-montreal.jpg", 
+            "org": "UMontreal", 
+            "revision": null, 
+            "run": "course", 
+            "tag": "c4x"
+        }, 
+        "displayname": "udem-ete-image-montreal.jpg", 
+        "filename": "asset-v1:UMontreal+Pierre+course+type@asset+block@udem-ete-image-montreal.jpg", 
+        "import_path": "udem-ete-image-montreal.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "UMontreal", 
+            "Pierre", 
+            "thumbnail", 
+            "udem-ete-image-montreal.jpg", 
+            null
+        ]
+    }
+}
